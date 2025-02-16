@@ -1,4 +1,5 @@
 # 📩 Spam Classification using Natural Language Processing (NLP)
+![Title](https://github.com/SYEDFAIZAN1987/Spam-Classification-using-Natural-Language-Processing/blob/main/spam_title.jpg)
 
 ## 🚀 Overview
 This project showcases a **Spam Classification System** built using **Natural Language Processing (NLP)** techniques. The classification was performed using **Logistic Regression** and **Multinomial Naive Bayes**, comparing their effectiveness on a dataset of spam and ham (non-spam) messages.
